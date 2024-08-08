@@ -15,7 +15,6 @@ export default function Page() {
           date for your appointment.
         </p>
         <ChatArea />
-        <Footer />
       </div>
     </ConversationManager>
   )
